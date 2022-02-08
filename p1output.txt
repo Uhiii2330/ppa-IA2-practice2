@@ -1,1 +1,7 @@
-
+ gcc -g p1original.c
+ ./a.out
+Enter the base
+1
+Enter the height
+2
+the area of triangle with base 1.000000 and helight 2.000000 is 0.000000
